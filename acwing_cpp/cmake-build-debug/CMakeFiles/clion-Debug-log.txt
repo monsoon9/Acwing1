@@ -1,0 +1,4 @@
+C:\Users\monsoon\AppData\Local\JetBrains\CLion2024.1\cygwin_cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=/cygdrive/d/大学计算机/code/CLion/CLion 2024.1.4/bin/ninja/cygwin/x64/ninja.exe" -G Ninja -S /cygdrive/d/大学计算机/code/Acwing/acwing_cpp -B /cygdrive/d/大学计算机/code/Acwing/acwing_cpp/cmake-build-debug
+-- Configuring done (0.1s)
+-- Generating done (0.0s)
+-- Build files have been written to: /cygdrive/d/大学计算机/code/Acwing/acwing_cpp/cmake-build-debug

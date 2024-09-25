@@ -1,0 +1,6 @@
+/cygdrive/d/大学计算机/code/Acwing/acwing_cpp/cmake-build-debug/CMakeFiles/acwing_cpp.dir
+/cygdrive/d/大学计算机/code/Acwing/acwing_cpp/cmake-build-debug/CMakeFiles/day2.dir
+/cygdrive/d/大学计算机/code/Acwing/acwing_cpp/cmake-build-debug/CMakeFiles/test.dir
+/cygdrive/d/大学计算机/code/Acwing/acwing_cpp/cmake-build-debug/CMakeFiles/day3.dir
+/cygdrive/d/大学计算机/code/Acwing/acwing_cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/d/大学计算机/code/Acwing/acwing_cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
